@@ -3,6 +3,8 @@ First, the location query is sent to Geocoding API to fetch latitude and longitu
 
 The background is changed to reflect if the weather is warm or cold.
 
+This project was originally created by Tyler Potts (https://www.youtube.com/c/TylerPotts), and was completed as a beginner's exercise and single-day project.
+
 ![Warm Weather](./preview-img/ktm_weather.png?raw=true "Warm Weather Preview")
 ![Cold Weather](./preview-img/nuuk_weather.png?raw=true "Cold Weather Preview")
 
